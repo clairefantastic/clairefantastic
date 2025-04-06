@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Claire
 
 🎓 Currently study in UChicago CS (Class of 2026) <br>
-🔭 Specialize in iOS and full-stack software development
+🔭 Specialize in full-stack and iOS development
 
 
 # Language and Tools
@@ -19,4 +19,3 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Fastlane](https://img.shields.io/badge/fastlane-%2382bd4e.svg?style=for-the-badge&logo=fastlane&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
