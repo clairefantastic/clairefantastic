@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Claire
 
 🎓 Currently study in UChicago CS (Class of 2026) <br>
-🔭 Specialize in full-stack and iOS development
+🔭 Specialize in full-stack development
 
 
 
