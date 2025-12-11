@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Claire
+# I like to build exciting products!
 
 🎓 Currently study in UChicago CS (Class of 2026) <br>
 🔭 Specialize in full-stack, backend development
